@@ -1,1 +1,1 @@
-# may-n-tarlas-
+# mayin tarlasi oyunu
