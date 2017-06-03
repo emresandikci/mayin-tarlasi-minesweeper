@@ -1,1 +1,1 @@
-# mayin tarlasi oyunu
+# mayin tarlasi - minesweeper
