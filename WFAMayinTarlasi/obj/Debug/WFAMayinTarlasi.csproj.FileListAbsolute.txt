@@ -1,0 +1,9 @@
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\bin\Debug\WFAMayinTarlasi.exe.config
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\bin\Debug\WFAMayinTarlasi.exe
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\bin\Debug\WFAMayinTarlasi.pdb
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.csprojResolveAssemblyReference.cache
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.Form1.resources
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.Properties.Resources.resources
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.csproj.GenerateResource.Cache
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.exe
+c:\users\miralayhp\documents\visual studio 2012\Projects\WFAMayinTarlasi\WFAMayinTarlasi\obj\Debug\WFAMayinTarlasi.pdb
